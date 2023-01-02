@@ -1,6 +1,6 @@
 # Live-Update-CSS
 
-Deployed at:
+Deployed at: https://archonology.github.io/Live-Update-CSS/
 
 # Description
 For the new year I'm sharpening up my JS skills with [javascript30.com](https://javascript30.com/).  It's an awesome, free program that helps you kick up your vanilla JS skills notch.
