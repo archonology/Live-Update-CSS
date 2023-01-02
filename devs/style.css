@@ -2,6 +2,7 @@
     --base: #e3411c;
     --spacing: 10px;
     --blur: 10px;
+    --sizing: 10px;
 }
 
 body {
